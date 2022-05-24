@@ -1,5 +1,4 @@
-# TechTestAdInMo
- Tech Test for AdInMo
+# Tech Test for AdInMo
  
  As requested to create a small console application that connects to the Apple REST Api and returns the bundle id for apps.
  
